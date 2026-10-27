@@ -4,7 +4,7 @@ on:
 workflow_dispatch:
 push:
 paths:
-- 'BeeChatStore_APK_Upload_To_GitHub.zip'
+- 'BeeChat_APK_Upload_To_GitHub.zip'
 - '.github/workflows/main.yml'
 
 jobs:
